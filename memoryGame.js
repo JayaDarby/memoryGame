@@ -17,7 +17,7 @@ function shuffle(array) {
 
 var outerDiv = document.createElement('div');
 outerDiv.id = 'grab';
-outerDiv.style.width = '610 px';
+outerDiv.style.width = '610px';
 document.body.appendChild(outerDiv);
 
 var photoIds = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p'];
